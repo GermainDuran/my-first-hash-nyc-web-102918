@@ -40,6 +40,6 @@ def adding
 
   # return the shipping_manifest hash below
   
- shipping_manifest["whale bone corsets","porcelain vases","oil paintings","muskets","gun powder"]
+ shipping_manifest=["whale bone corsets","porcelain vases","oil paintings","muskets","gun powder"]
 
 end
